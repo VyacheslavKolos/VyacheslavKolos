@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vyacheslav Kolos
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS,  also studing at Lviv National Forestry University, majoring in computer science
+- 👀 I’m interested in React JS
+- 🌱 I’m currently learning React JS,TS,  also studing at Lviv National Forestry University, majoring in computer science
 - 📫 How to reach me 
 linkedIn:
 https://www.linkedin.com/in/kolos-v-b8963020a/
